@@ -1,2 +1,1 @@
-# Test
-Interview Details
+Please import the project and run as testng file
